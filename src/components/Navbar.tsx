@@ -207,9 +207,6 @@ export const Navbar: React.FC<NavbarProps> = ({ activePage, setActivePage, activ
               </>
             )}
           </div>
-          <div className="text-[9px] text-[#636E72]">
-            MAXIMUM 2 PAGES ARCHITECTURE
-          </div>
         </div>
       </div>
 
