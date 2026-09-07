@@ -1,0 +1,8 @@
+{
+  "name": "James Muigai - AI Data Annotator Portfolio",
+  "description": "Portfolio of James Muigai, Data Annotator and ML Specialist. Hands-on computer vision annotation, model dataset preparation, and NLP quality control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
